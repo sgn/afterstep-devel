@@ -1,4 +1,4 @@
-/* autoconf/config.h.in.  Generated from autoconf/configure.in by autoheader.  */
+/* autoconf/config.h.in.  Generated from configure.in by autoheader.  */
 
 /* Define if building universal (internal helper macro) */
 #undef AC_APPLE_UNIVERSAL_BUILD
